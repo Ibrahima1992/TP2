@@ -1,16 +1,7 @@
--- Generation time: Wed, 09 Oct 2019 11:25:09 +0000
--- Host: mysql.hostinger.ro
--- DB name: u574849695_22
-/*!40030 SET NAMES UTF8 */;
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
-/*!40103 SET TIME_ZONE='+00:00' */;
-/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
-/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
-/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
-/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+INSERT INTO Utilisateurs VALUES ('Aaliyah','Cronin','clyde62@example.com','Yvonne','id','(885)328-0463','01-05-16','M','01-05-17','','1');
+INSERT INTO Utilisateurs VALUES ('Abdiel','Wiza','hagenes.jasper@example.org','Kieran','corrupti','011-969-1992x8279','01-05-16','M','01-05-17','01-05-18','5');
+INSERT INTO Utilisateurs VALUES ('Adrien','Becker','astrid.volkman@example.org','Kenny','ut','944-586-6482x3078','01-05-16','M','01-05-16','01-05-16','4');
+
 
 DROP TABLE IF EXISTS `Utilisateurs`;
 CREATE TABLE `Utilisateurs` (
